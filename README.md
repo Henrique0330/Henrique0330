@@ -2,13 +2,10 @@
 
 **`FullStack Developer`**
 
-<p style="font-size: 16px; font-weight: bold;">
-    <a href="mailto:henriquebelboni@gmail.com" style="text-decoration: none; color: #0077b5; margin-right: 15px;">📧 Email</a> |
-    <a href="https://github.com/Henrique0330" style="text-decoration: none; color: #333; margin-right: 15px;">🐱 GitHub</a> |
-    <a href="https://www.linkedin.com/in/DiasBelboni" style="text-decoration: none; color: #0077b5;">💼 LinkedIn</a>
-</p>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=5783eb&color=fcfaf5)](mailto:henriquebelboni@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=5783eb&color=fcfaf5)](https://www.linkedin.com/in/diasbelboni)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=5783eb&color=fcfaf5)](https://www.instagram.com/h.belboni/)
 
----
 
 ### 🤖 Languages & Technologies
 
