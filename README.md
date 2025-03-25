@@ -2,9 +2,17 @@
 
 **`FullStack Developer`**
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=5783eb&color=fcfaf5)](mailto:henriquebelboni@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=5783eb&color=fcfaf5)](https://www.linkedin.com/in/diasbelboni)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=5783eb&color=fcfaf5)](https://www.instagram.com/h.belboni/)
+
+Hello! I'm Henrique Dias, a 17-year-old IT student at IFC Araquari. I really enjoy technology and I'm working hard to learn more and become a full-stack developer.
+
+
+
+[![E-mail](https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail&logoColor=28a745&color=ffffff)](mailto:henriquebelboni@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=28a745&color=ffffff)](https://www.linkedin.com/in/diasbelboni)
+[![Instagram](https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram&logoColor=28a745&color=ffffff)](https://www.instagram.com/h.belboni/)
+
+
+---
 
 
 ### 🤖 Languages & Technologies
@@ -23,22 +31,20 @@
 
 ### 📊 Statistics
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px; border-radius: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Henrique0330&show_icons=true&theme=graywhite&include_all_commits=true&locale=en" 
-  />
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px; border-radius: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=Henrique0330&show_icons=true&theme=graywhite&include_all_commits=true&locale=en" 
+/>
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="border-radius: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique0330&theme=graywhite&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-</p>
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="border-radius: 50%;" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique0330&langs_count=12&layout=donut&theme=graywhite&size_weight=0&count_weight=1&hide=c++,roff,fortran,powershell,c,meson,cython,batchfile" 
+/>
 
 <br/>
