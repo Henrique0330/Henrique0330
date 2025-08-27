@@ -10,20 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      # Se precisar de Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '20'
-
-      # Instala dependências
       - run: npm install
-
-      # Roda o script que gera os SVGs
       - run: npm run generate-graph
-
-      # Faz commit e push dos arquivos atualizados
       - name: Commit and Push
         run: |
           git config --local user.name "github-actions[bot]"
