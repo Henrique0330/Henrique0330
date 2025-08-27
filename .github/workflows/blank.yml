@@ -1,0 +1,33 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # roda todo dia à meia-noite
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Se precisar de Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      # Instala dependências
+      - run: npm install
+
+      # Roda o script que gera os SVGs
+      - run: npm run generate-graph
+
+      # Faz commit e push dos arquivos atualizados
+      - name: Commit and Push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git commit -m "Update Pacman contribution graph" || echo "No changes to commit"
+          git push
