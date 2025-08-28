@@ -28,5 +28,4 @@ jobs:
           target_branch: output
           build_dir: dist
           keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          token: ${{ secrets.PERSONAL_TOKEN }} # <- aqui vai o PAT
