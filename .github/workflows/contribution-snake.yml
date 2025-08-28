@@ -11,8 +11,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0 # garante histórico completo
 
       - name: Generate PacMan Graph
         uses: Platane/snk@v3
@@ -22,10 +20,14 @@ jobs:
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-          keep_history: true
-          token: ${{ secrets.PERSONAL_TOKEN }} # <- aqui vai o PAT
+      - name: Push dist directory to output branch
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.OUTPUT_TOKEN }}@github.com/${{ github.repository }}.git
+          git checkout --orphan output
+          git reset --hard
+          cp -r dist/* .
+          git add -A
+          git commit -m "Deploy PacMan graph"
+          git push --force origin output
