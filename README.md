@@ -48,3 +48,9 @@ Hello! I'm Henrique Dias, a 17-year-old IT student at IFC Araquari. I really enj
 />
 
 <br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrique0330/Henrique0330/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henrique0330/Henrique0330/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Henrique0330/Henrique0330/output/pacman-contribution-graph.svg">
+</picture>
