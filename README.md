@@ -31,21 +31,12 @@ Hello! I'm Henrique Dias, a 17-year-old IT student at IFC Araquari. I really enj
 
 ### 📊 Statistics
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px; border-radius: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=Henrique0330&show_icons=true&theme=graywhite&include_all_commits=true&locale=en" 
-/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Henrique0330&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrique0330&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="border-radius: 50%;" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique0330&langs_count=12&layout=donut&theme=graywhite&size_weight=0&count_weight=1&hide=c++,roff,fortran,powershell,c,meson,cython,batchfile" 
-/>
+###
 
 <br/>
 
