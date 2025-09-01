@@ -1,7 +1,5 @@
 # 👨🏻‍💻 Henrique0330
 
-**`FullStack Developer`**
-
 
 Hello! I'm Henrique Dias, a 17-year-old IT student at IFC Araquari. I really enjoy technology and I'm working hard to learn more and become a full-stack developer.
 
