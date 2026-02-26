@@ -1,34 +1,65 @@
-# 👨🏻‍💻 Henrique0330
+# Hi 👋, I'm Henrique Dias
 
+🚀 **Front-End Focused Developer | Full-Stack in Progress**  
+🇧🇷 Brazil  
 
-Hello! I'm Henrique Dias, a 17-year-old IT student at IFC Araquari. I really enjoy technology and I'm working hard to learn more and become a full-stack developer.
+I'm a 17-year-old IT student focused on becoming a Full-Stack Developer.  
+I enjoy building web interfaces, learning backend technologies, and improving my programming skills every day.
 
-[![E-mail](https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail&logoColor=28a745&color=ffffff)](mailto:henriquebelboni@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=28a745&color=ffffff)](https://www.linkedin.com/in/diasbelboni)
-[![Instagram](https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram&logoColor=28a745&color=ffffff)](https://www.instagram.com/h.belboni/)
-
+Currently studying and practicing modern web development.
 
 ---
 
+## 🌐 Connect with me
 
-### 🤖 Languages & Technologies
+<p align="left">
+<a href="https://www.linkedin.com/in/diasbelboni">
+    <img src="https://img.shields.io/badge/LinkedIn-Henrique Dias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:henriquebelboni@gmail.com">
+    <img src="https://img.shields.io/badge/Email-henriquebelboni@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.instagram.com/h.belboni">
+    <img src="https://img.shields.io/badge/Instagram-@h.belboni-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  </a>
+</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-    <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img alt="Vue.js" title="Vue.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-    <img alt="Bootstrap" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-</div>
+---
 
-<br/>
+## 🧠 What I Do
 
-###
+- 🎨 Front-end development
+- ⚡ Building responsive web interfaces
+- 🧩 Learning and practicing **Node.js**
+- 🔌 Backend development
+- 🐍 Studying
+- 🛠️ Database integration and basic API development
+- 📚 Constantly improving logic and clean code practices
 
-<br/>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrique0330/Henrique0330/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henrique0330/Henrique0330/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Henrique0330/Henrique0330/output/pacman-contribution-graph.svg">
-</picture>
+## 🛠️ Tech Stack
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+ ---
+
+
+
+## 🚀 Philosophy
+
+> _"I'm not just learning to code — I'm building my future through technology."_
+
+---
+
+⭐ Always open to learning, collaborating and building new projects.
