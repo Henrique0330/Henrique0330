@@ -1,11 +1,9 @@
-name: Generate pacman animation
+name: Generate Pacman
 
 on:
   schedule:
-    - cron: "* */12 * * *"
-
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -15,19 +13,19 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10  # aumentei um pouco por segurança
 
     steps:
-      - name: Increase Node.js memory limit
-        run: echo "NODE_OPTIONS=--max-old-space-size=4096" >> $GITHUB_ENV
+      - uses: actions/checkout@v3
 
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate Pacman (dark)
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman-dark.svg?palette=github-dark
 
-      - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
